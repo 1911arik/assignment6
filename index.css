@@ -1,0 +1,54 @@
+#phones{
+
+
+   display:grid;
+   
+   grid-template-columns:repeat(3,1fr) ;
+   
+   
+   
+
+}
+
+
+
+
+.phone-box{
+
+border: 4px solid #2CDD5F;
+
+margin: 15px ;
+
+padding: 23px;
+
+background-color:whitesmoke;
+
+
+} 
+
+#input{
+
+
+text-align: center;
+
+
+} 
+
+
+.heading{
+
+
+
+background-color:rgb(9, 3, 3);
+
+margin:5px;
+
+text-align:center;
+
+font-family: 'Noto Serif', serif;
+
+padding: 13px;;
+
+color: aliceblue;
+
+}
